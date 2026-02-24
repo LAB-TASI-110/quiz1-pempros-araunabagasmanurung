@@ -1,0 +1,15 @@
+1. ini adalah sebuah case yang harus saya selesaikan sekarang
+2. menurut kamu apa itu kode kelompok yang dimaksud
+3. katanya untuk memecahkan masalah tsb kita dapat menggunakan array dalam penyelesaiannya
+4. Apa yang saya isi didalam kode kelompok
+5. PS C:\Users\Asus\OneDrive\Documents\GitHub\quiz1-pempros-araunabagasmanurung> gcc T02.c -o T02 
+PS C:\Users\Asus\OneDrive\Documents\GitHub\quiz1-pempros-araunabagasmanurung> ./T02
+Masukkan jumlah data: 4
+Masukkan deret nilai:
+75
+65
+80
+70
+Masukkan kode kelompok: b 
+Kelompok tidak ditemukan atau kosong.
+
