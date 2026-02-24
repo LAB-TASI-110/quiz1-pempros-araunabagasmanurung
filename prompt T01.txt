@@ -1,0 +1,3 @@
+buat dalam program c
+mengapa char kode nya sama dengan 10
+cara nge run nya gimana
